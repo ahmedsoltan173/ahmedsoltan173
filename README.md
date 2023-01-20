@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ahmed Alaa Soltan (@ahmedsoltan173)
 - 👀 I’m interested in software engineering 
 - 🌱 I’m currently learning computer science 
-- 📫 How to reach me   (ahmed.soltan160160@gmail.com)
+- 📫 How to reach me   (ahmed.soltan160160@gmail.com
