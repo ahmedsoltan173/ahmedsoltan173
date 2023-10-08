@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Ahmed Alaa Soltan (@ahmedsoltan173)
-- 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning computer science 
-- 📫 How to reach me   (ahmed.soltan160160@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CF6F7&width=445&height=64&lines=Hello%2C+This+Ahmed+Alaa+Soltan+.....;Software+Engineer%7C+Backend+Developer%7C;PHP+Laravel++;ahmed.soltan160160%40gmail.com)](https://git.io/typing-svg)
