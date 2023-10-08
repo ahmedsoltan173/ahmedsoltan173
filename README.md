@@ -16,7 +16,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="30px" style="padding-right:10px;" align="left"/>
 
 
-# 📊 Stats
+### 📊 Stats
 
 ![Soltan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedsoltan173&theme=dark&show_icons=true)
  
