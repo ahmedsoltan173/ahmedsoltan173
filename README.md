@@ -3,7 +3,7 @@
 **`Software Engineer`**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="30px" style="padding-right:10px;" align="left"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-line-wordmark.svg" width="60px" style="padding-right:10px;" align="left" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-line-wordmark.svg" width="45px" style="padding-right:10px;" align="left" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg"  width="30px" style="padding-right:10px;" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mySql" width="30px" style="padding-right:10px;" align="left"/>
 
@@ -21,4 +21,4 @@
  
 #
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CF6F7&font=Rancho&width=445&height=64&lines=Hello%2C+This+Ahmed+Alaa+Soltan+.....;Software+Engineer%7C+Backend+Developer%7C;PHP+Laravel++;ahmed.soltan160160%40gmail.com)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CF6F7&font=Rancho&width=445&height=64&lines=Hello+%2C+This+Ahmed+Alaa+Soltan+;+++Software+Engineer+%7C+Backend+Developer+%7CPHP+Laravel+Developer++;ahmed.soltan160160%40gmail.com)](https://git.io/typing-svg)
