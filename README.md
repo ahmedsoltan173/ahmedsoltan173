@@ -3,7 +3,7 @@
 **`Software Engineer`**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="30px" style="padding-right:10px;" align="left"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-line-wordmark.svg" width="600px" style="padding-right:10px;" align="left" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-line-wordmark.svg" width="60px" style="padding-right:10px;" align="left" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg"  width="30px" style="padding-right:10px;" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mySql" width="30px" style="padding-right:10px;" align="left"/>
 
