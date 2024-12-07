@@ -33,9 +33,7 @@ I am proficient in the following technologies, enabling me to deliver quality so
 - **GitHub**  
 - **Agile & Scrum Methodologies**  
 
-#### **Tools & Frameworks**  
-- **RESTful APIs**  
-- **Composer**  
+#### **Tools **    
 - **Docker**  
 ---
 
@@ -71,6 +69,4 @@ I would love to collaborate with you on your next project. Reach out to me for p
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node.js" width="30px" style="padding-right:10px;" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30px" style="padding-right:10px;" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="30px" style="padding-right:10px;" align="left"/>
-
----
 
