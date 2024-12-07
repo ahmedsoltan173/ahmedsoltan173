@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 **About Me**  
-I am a passionate Software Engineer with over **two years** of experience in backend development, specializing in **PHP** and the **Laravel framework**. I thrive on solving complex technical challenges and continuously improving the performance and scalability of web applications.  
+I am a passionate Software Engineer with over **+ two years** of experience in backend development, specializing in **PHP** and the **Laravel framework**. I thrive on solving complex technical challenges and continuously improving the performance and scalability of web applications.  
 
 My approach is centered on writing **clean**, **efficient**, and **maintainable** code, ensuring the long-term success of every project I work on.  
 
@@ -35,11 +35,8 @@ I am proficient in the following technologies, enabling me to deliver quality so
 
 #### **Tools & Frameworks**  
 - **RESTful APIs**  
-- **ETL Pipelines**  
 - **Composer**  
-- **Docker** *(Learning)*  
-- **Jira & Trello for project management*  
-
+- **Docker**  
 ---
 
 ### 🎯 **Why Choose Me?**  
@@ -60,16 +57,20 @@ I would love to collaborate with you on your next project. Reach out to me for p
 ---
 
 ### 🛠️ **Technologies I Love**  
-![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)  
-![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-line-wordmark.svg)  
-![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg)  
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)  
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg)  
-![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="30px" style="padding-right:10px;" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-line-wordmark.svg" width="45px" style="padding-right:10px;" align="left" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg"  width="30px" style="padding-right:10px;" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mySql" width="30px" style="padding-right:10px;" align="left"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30px" style="padding-right:10px;" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="30px" style="padding-right:10px;" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="30px" style="padding-right:10px;" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" width="30px" style="padding-right:10px;" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="30px" style="padding-right:10px;" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="js" width="30px" style="padding-right:10px;" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node.js" width="30px" style="padding-right:10px;" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30px" style="padding-right:10px;" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="30px" style="padding-right:10px;" align="left"/>
 
 ---
 
-### 🌟 **Let’s Build Something Amazing Together!**  
-Looking forward to the opportunity to bring your ideas to life with exceptional software engineering solutions.
-
-"""
